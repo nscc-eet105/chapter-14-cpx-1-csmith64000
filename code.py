@@ -1,6 +1,6 @@
-# Name: Your Name Here
-# Lab Number: CPX Lights and Sound Lab
-# Date: 07/14/2025
+# Chris Smith
+# Chapter 14 - CPX
+# 07/14/2025
 
 from adafruit_circuitplayground.express import cpx
 import time
@@ -60,4 +60,3 @@ while True:
         fill_pixels(colors['black'])
 
     time.sleep(0.05)  # debounce delay
-
